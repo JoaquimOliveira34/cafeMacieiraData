@@ -1,0 +1,54 @@
+{
+  "menus": [
+    {
+      "code": 101,
+      "name": "Mac Macieira",
+      "price": 1,
+      "description": "Dizem que é muito bom"
+    },
+    {
+      "code": 102,
+      "name": "Mac Macieira Bacon",
+      "price": 1.5,
+      "description": "Dizem que é muito bom"
+    },
+    {
+      "code": 103,
+      "name": "Double Macieira",
+      "price": 2,
+      "description": "Dizem que é muito bom"
+    },
+    {
+      "code": 104,
+      "name": "Double Macieira Bacon",
+      "price": 2.5,
+      "description": "Dizem que é muito bom"
+    },
+    {
+      "code": 105,
+      "name": "Mac Cheese",
+      "price": 3,
+      "description": "Dizem que é muito bom"
+    },
+    {
+      "code": 106,
+      "name": "Mac Cheese Bacon",
+      "price": 3.5,
+      "description": "Dizem que é muito bom"
+    },
+    {
+      "code": 107,
+      "name": "Double Cheese",
+      "price": 4,
+      "description": "Dizem que é muito bom"
+    },
+    {
+      "code": 108,
+      "name": "Double Cheese Bacon",
+      "price": 4.5,
+      "description": "Dizem que é muito bom"
+    }
+  ]
+
+}
+
