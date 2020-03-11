@@ -48,7 +48,27 @@
       "price": 4.5,
       "description": "Dizem que é muito bom"
     }
+  ],
+  "drinks": [
+    {
+      "code": 201,
+      "name": "Coca Cola lata",
+      "price": 1.10
+    },
+    {
+      "code": 202,
+      "name": "Coca Cola garrafa",
+      "price": 1.10
+    },
+  {
+      "code": 203,
+      "name": "7Up lata",
+      "price": 1.10
+    },
+  {
+      "code": 204,
+      "name": "Vinho do porto",
+      "price": 0.80
+    }
   ]
-
 }
-
