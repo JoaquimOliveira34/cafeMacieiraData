@@ -31,7 +31,7 @@
       "ingredients": "Hamburger com duas fatias de carne, queijo e batata frita"
     },
     {
-      "type": "Dish",      
+      "code": 105,      
       "name": "Double Cheese Bacon",
       "price": 4.5,
       "ingredients": "Hamburger com duas fatias de carne, queijo, bacon e batata frita"
