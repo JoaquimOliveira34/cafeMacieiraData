@@ -4,91 +4,128 @@
       "code": 100,
       "name": "Mac Macieira",
       "price": 1,
-      "ingredients": "Hamburger com uma fatia de carne e batata frita"
+      "description": "Hamburger com uma fatia de carne e batata frita"
     },
     {
       "code": 101,
       "name": "Double Macieira",
       "price": 2,
-      "ingredients": "Hamburger com duas fatias de carne e batata frita"
+      "description": "Hamburger com duas fatias de carne e batata frita"
     },
     {
       "code": 102,
       "name": "Mac Cheese",
       "price": 3,
-      "ingredients": "Hamburger com uma fatia de carne, queijo e batata frita"
+      "description": "Hamburger com uma fatia de carne, queijo e batata frita"
     },
     {
       "code": 103,
       "name": "Mac Cheese Bacon",
       "price": 3.5,
-      "ingredients": "Hamburger com uma fatia de carne, queijo, bancon e batata frita"
+      "description": "Hamburger com uma fatia de carne, queijo, bancon e batata frita"
     },
     {
       "code": 104,
       "name": "Double Cheese",
       "price": 4,
-      "ingredients": "Hamburger com duas fatias de carne, queijo e batata frita"
+      "description": "Hamburger com duas fatias de carne, queijo e batata frita"
     },
     {
-      "code": 105,      
+      "code": 105,
       "name": "Double Cheese Bacon",
       "price": 4.5,
-      "ingredients": "Hamburger com duas fatias de carne, queijo, bacon e batata frita"
+      "description": "Hamburger com duas fatias de carne, queijo, bacon e batata frita"
     }
   ],
   "bebidas": [
     {
-      "code": 201,
       "name": "Coca Cola",
       "price": 1.10,
-      "options":{
-        "lata":1.10,
-        "copo":0.85,
-        "garrafa":1.50
-      }
+      "options": [
+        {
+          "code": 201,
+          "description": "copo 33cl",
+          "price": 0.8
+        },
+        {
+          "code": 202,
+          "description": "lata 33cl",
+          "price": 1.10
+        },
+        {
+          "code": 203,
+          "description": "garrafa 50cl",
+          "price": 1
+        }
+      ]
     },
     {
-      "code": 202,
       "name": "7Up",
       "price": 1.10,
-      "options": {
-        "lata": 1.10,
-        "copo": 0.85,
-        "garrafa": 1.50
-      }
+      "options": [
+        {
+          "code": 204,
+          "description": "copo 33cl",
+          "price": 0.8
+        },
+        {
+          "code": 205,
+          "description": "lata 33cl",
+          "price": 1.10
+        },
+        {
+          "code": 206,
+          "description": "garrafa 50cl",
+          "price": 1
+        }
+      ]
     },
     {
-      "code": 203,
       "name": "Ice Tea",
-      "class": "Drink",
       "price": 1.10,
-      "options": {
-        "lata": 1.10,
-        "copo": 0.85,
-        "garrafa": 1.50
-      }
+      "options": [
+        {
+          "code": 207,
+          "description": "copo 33cl",
+          "price": 0.8
+        },
+        {
+          "code": 208,
+          "description": "lata 33cl",
+          "price": 1.10
+        },
+        {
+          "code": 209,
+          "description": "garrafa 50cl",
+          "price": 1
+        }
+      ]
     },
     {
-      "code": 204,
       "name": "Cerveja",
       "price": 1.10,
-      "options": {
-        "fino": 1.10,
-        "garrafa": 0.85
-      }
+      "options": [
+        {
+          "code": 210,
+          "description": "garrafa 33cl",
+          "price": 0.85
+        },
+        {
+          "code": 211,
+          "description": "fino 25cl",
+          "price": 1.10
+        }
+      ]
     },
     {
-      "code": 205,
+      "code": 212,
       "name": "Agua 0.5l",
-      "price": 0.60,
-      "options": {}
+      "price": 0.60
     },
     {
-      "code": 206,
+      "code": 213,
       "name": "Fanta lata",
-      "price": 1.10,
-      "options": {}
+      "price": 1.10
     }
   ],
   "outros": [
@@ -111,37 +148,37 @@
       "code": 304,
       "name": "Mac Macieira Simples",
       "price": 1,
-      "ingredients": "Hamburger com uma fatia de carne"
+      "description": "Hamburger com uma fatia de carne"
     },
     {
       "code": 305,
       "name": "Double Macieira Simples",
       "price": 2,
-      "ingredients": "Hamburger com duas fatias de carne"
+      "description": "Hamburger com duas fatias de carne"
     },
     {
       "code": 306,
       "name": "Mac Cheese Simples",
       "price": 3,
-      "ingredients": "Hamburger com uma fatia de carne e queijo"
+      "description": "Hamburger com uma fatia de carne e queijo"
     },
     {
       "code": 307,
       "name": "Mac Cheese Bacon Simples",
       "price": 3.5,
-      "ingredients": "Hamburger com uma fatia de carne, queijo e bancon"
+      "description": "Hamburger com uma fatia de carne, queijo e bancon"
     },
     {
       "code": 308,
       "name": "Double Cheese Simples",
       "price": 4,
-      "ingredients": "Hamburger com duas fatias de carne e queijo"
+      "description": "Hamburger com duas fatias de carne e queijo"
     },
     {
       "code": 309,
       "name": "Double Cheese Bacon Simples",
       "price": 4.5,
-      "ingredients": "Hamburger com duas fatias de carne, queijo e bacon"
+      "description": "Hamburger com duas fatias de carne, queijo e bacon"
     }
   ]
 }
